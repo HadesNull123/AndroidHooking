@@ -1,3 +1,5 @@
+# Thanks to https://github.com/LGLTeam/Android-Mod-Menu
+
 **This template is not for newbies/noobs. You need basic knowledge of C++, Java, dalvik opcodes, ARM and ARM64 assembly, and be able to patch hex and hook. You will be expected to read, learn and even google. If you don't have the knowledge, this tutorial will be too hard for you**
 
 **If you don't like this project, do not use. Please do not spread hate and insult against me, especially the smaller kids community. Instead, tell me why you don't like and what I can improve**
